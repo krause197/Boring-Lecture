@@ -9,3 +9,15 @@ p.intro {
 img.intro {
   color: yellow;
 }
+
+.important {
+  color: purple;
+  style: italic;
+  font-family:fantasy;
+}
+
+.cool-words {
+  color: blue;
+  style: bold;
+  font-family:monospace;
+}
